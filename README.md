@@ -1,0 +1,1 @@
+# 6-6.Character-Arrays-and-Strings-Remove-all-whitespace-from-strings
